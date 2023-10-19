@@ -36,7 +36,7 @@ public class Student {
 
     @Override
     public String toString(){
-        return "Student = { Name : "+getName()+", "+" Age : "+getAge()+", "+"Score :"+getScore();
+        return "Student = { Name : "+getName()+", "+" Age : "+getAge()+", "+"Score :"+getScore()+" }";
     }
 }
 
